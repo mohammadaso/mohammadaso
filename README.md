@@ -26,6 +26,16 @@
   - Basic Photography
   - Basic Videography
 
+
+  ### Languages
+  - English-Fluent
+  - Kurdish-Native
+  - Arabic-Basic
+  
+
+
+
+
   ### Courses
 
   *TIS:*
