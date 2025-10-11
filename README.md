@@ -1,7 +1,7 @@
 # Programmer
 
 ### Education
-1st Year student at Qaiwan International University| Software Engineering Major| Bachelor's In Software Engineering
+2st Year student at Qaiwan International University| Software Engineering Major| Bachelor's In Software Engineering
 
 ### Skills
 *Designing:*
